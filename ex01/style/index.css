@@ -1,0 +1,43 @@
+.slika{
+    height:370px;
+    width:370px;
+    
+}
+.inline1{
+    display:inline-block;
+ 
+    padding: 103px 15px 15px 103px;
+    text-align: center;
+}
+
+.inline2{
+
+    display:inline-block;
+    
+    padding: 103px 15px 15px 103px;
+    text-align:center
+    
+
+}
+.inline3{
+
+    display: inline-block;
+    padding: 103px 15px 15px 103px;
+    text-align: center;
+    
+}
+.paragraf1{
+
+display:inline-block;
+text-transform: lowercase;
+    text-align-last:justify;
+ 
+
+}
+
+.naslov1{
+    color: rgb(54, 54, 223);
+    text-align: left;
+    padding:0 0 0 40px;
+}
+
